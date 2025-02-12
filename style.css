@@ -1,0 +1,140 @@
+body{
+    font-family: inter;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.healthy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.healthy_img{
+    width: 445px;
+    height: 513px;
+    background-image: url("img/Place\ Your\ Image.png");
+    border-left: 45px #42737A solid;
+    border-right: 45px #42737A solid;
+    border-bottom: 100px #42737A solid;
+    
+}
+
+.healthy_info{
+    margin-left: 60px;
+}
+
+.healthy_list{
+    margin-left: -40px;
+    
+}
+
+.healthy_The_More_Healthy{
+    width:  537px;
+    font-size: 60px;
+}
+
+.healthy_list_info_Check_mark{
+    display: flex;
+    align-items: center;
+    
+}
+
+.healthy_list_info{
+    margin-left: 20px;
+}
+
+.healthy_list_Check_mark{
+    width: 26px;
+    height: 19px;
+}
+
+.veggie{
+    margin-top: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 120px;
+
+}
+
+.veggie_Our_Starts{
+    font-size: 15px;
+}
+
+.veggie_food_goes{
+    width: 570px;
+    font-size: 60px;
+}
+
+.veggie_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: -45px;
+    
+}
+
+
+
+.number{
+    font-size: 40px;
+    color: #06C167;
+    
+}
+
+.veggie_list_number_and_info{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mini_info{
+    font-size: 15px;
+    color: #1D1D1F;
+    text-align: center;
+    
+
+}
+
+.veggie_button{
+    width: 233px;
+    height: 79px;
+    background-color: #06C167;
+    font-size: 16px;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 20px;
+
+}
+
+
+.veggie_img{
+    width: 445px;
+    height: 513px;
+    background-image: url("img/Place\ Your\ Image\ \(1\).png");
+    border-left: 80px #F3FAFB solid;
+    
+    border-bottom: 80px #F3FAFB solid;
+
+    
+    margin-left: 140px;
+    
+}
